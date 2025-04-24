@@ -1232,3 +1232,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.24-05.51.04:319][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 704 ms
 [2025.04.24-05.51.04:322][ 77]AssetCheck: New page: Asset Save: LevelInstance_UAID_B44506926950C86102_1090542127
 [2025.04.24-05.51.04:322][ 77]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_UAID_B44506926950C86102_1090542127
+[2025.04.24-05.55.06:792][ 11]LogSlate: Window 'Revision Control Login' being destroyed
