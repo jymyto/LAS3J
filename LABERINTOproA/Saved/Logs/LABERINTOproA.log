@@ -1194,3 +1194,9 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.04.24-14.08.49:628][ 17]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.04.24-14.08.50:293][ 19]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-Vo2JQ3C3JEypgZtjfFLHXQ-bYJTJFlwlkWnTUTfSNivgg]
 [2025.04.24-14.09.17:276][ 99]LogWindowsTextInputMethodSystem: Activated input method: Español (México) - (Keyboard).
+[2025.04.24-14.10.35:213][560]LogDerivedDataCache: C:/Users/Alienware/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1593 files in 2531 folders with total size 197 MiB.
+[2025.04.24-14.11.45:069][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.11.45:294][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.11.46:291][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.11.48:992][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.11.49:053][972]LogViewport: Scene viewport resized to 460x333, mode Windowed.
