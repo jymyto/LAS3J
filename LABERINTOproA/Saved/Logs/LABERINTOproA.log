@@ -1488,3 +1488,234 @@ Current: -220.000000,-1060.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,
 [2025.04.24-13.42.58:731][315]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
 [2025.04.24-13.43.07:126][809]Cmd: TRANSACTION UNDO
 [2025.04.24-13.43.07:126][809]LogEditorTransaction: Undo Rotate Elements
+[2025.04.24-13.43.38:542][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:554][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:562][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:572][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:581][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:590][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:600][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:609][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:619][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:628][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:639][422]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L2_BuiltData.Demo_L2_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.43.38:667][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.43.39:082][423]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L2.Demo_L2
+[2025.04.24-13.43.39:082][423]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L2.Demo_L2
+[2025.04.24-13.43.41:243][552]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L2.Demo_L2
+[2025.04.24-13.43.41:243][552]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L2.Demo_L2
+[2025.04.24-13.43.41:261][552]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/ModularDungeon2/Maps/Demo_L2_LevelInstance_83b378197fd25e26_0) is flushing async loading
+[2025.04.24-13.43.41:261][552]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.24-13.43.41:810][552]LogLevelInstance: Loaded 1 levels in 0,549 seconds
+[2025.04.24-13.44.13:304][315]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.13:304][315]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.24-13.44.25:183][990]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.25:183][990]LogEditorTransaction: Undo Rotate Elements
+[2025.04.24-13.44.25:784][ 14]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.25:784][ 14]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.24-13.44.35:716][586]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.24-13.44.37:988][718]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.37:988][718]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.24-13.44.38:800][755]LogEditorViewport: Clicking Background
+[2025.04.24-13.44.39:287][784]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.39:287][784]LogEditorTransaction: Undo Clicking Background
+[2025.04.24-13.44.40:160][835]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.40:161][835]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.24-13.44.41:954][941]Cmd: TRANSACTION UNDO
+[2025.04.24-13.44.41:954][941]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.24-13.44.48:278][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 339.280670
+[2025.04.24-13.44.48:389][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.24-13.44.48:389][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 339.383362, Update Interval: 347.418427
+[2025.04.24-13.44.51:165][475]Cmd: SELECT NONE
+[2025.04.24-13.44.55:235][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: ================================================
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 6 distinct outputs (85.71%)
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: RAM used: 155,37 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: Jobs assigned 8, completed 7 (87.50%)
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: Average time worker was idle: 202.55 s
+[2025.04.24-13.44.55:875][738]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.09 s
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Job execution time: average 3.53 s, max 4.06 s
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Job life time (pending + execution): average 3.54 s, max 4.07
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Shader code size: average 36,467 KiB, min 33,16 KiB, max 40,711 KiB
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.69 s
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Average processing rate: 1.49 jobs/sec
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Total thread time: 2,163 s
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Total thread preprocess time: 0,252 s
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Percentage time preprocessing: 11.65%
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Effective parallelization: 0.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 17.58% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 17.56% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 15.50% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 15.04% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.95% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.04.24-13.44.55:876][738]LogShaderCompilers: Display: ================================================
+[2025.04.24-13.44.56:130][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:162][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:199][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:244][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:282][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:321][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:360][749]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:398][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:437][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:478][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:518][753]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:561][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:677][755]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:730][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:768][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:804][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:879][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:936][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.56:999][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:088][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:147][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:233][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:291][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:378][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:454][767]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:508][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:588][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:664][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.44.57:742][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.45.01:128][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.24-13.45.01:133][953]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.24-13.45.01:133][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.24-13.45.01:135][953]MapCheck: Error: Level Instance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap has an invalid world asset None.None 
+[2025.04.24-13.45.01:136][953]MapCheck: Error: Level Instance /Game/ThirdPerson/Maps/ThirdPersonMap.OverView is not using external actors /Game/ModularDungeon2/Maps/OverView.OverView 
+[2025.04.24-13.45.01:136][953]MapCheck: Error: Level Instance /Game/ThirdPerson/Maps/ThirdPersonMap.OverView2 is not using external actors /Game/ModularDungeon2/Maps/OverView.OverView 
+[2025.04.24-13.45.01:136][953]MapCheck: Error: Level Instance /Game/ThirdPerson/Maps/ThirdPersonMap.Demo_L1 is not using external actors /Game/ModularDungeon2/Maps/Demo_L1.Demo_L1 
+[2025.04.24-13.45.01:136][953]MapCheck: Error: Level Instance /Game/ThirdPerson/Maps/ThirdPersonMap.Demo_L2 is not using external actors /Game/ModularDungeon2/Maps/Demo_L2.Demo_L2 
+[2025.04.24-13.45.01:137][953]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 5 ms)
+[2025.04.24-13.45.01:183][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.24-13.45.01:183][953]PIE: New page: PIE session: ThirdPersonMap (24 abr. 2025 2:45:01)
+[2025.04.24-13.45.01:183][953]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.24-13.45.01:190][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006981s)
+[2025.04.24-13.45.01:190][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007029s)
+[2025.04.24-13.45.01:228][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.24-13.45.01:230][953]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.45.01:230][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.24-13.45.01:231][953]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.04.24-13.45.01:231][953]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.24-13.45.01:231][953]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.24-13.45.01:231][953]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.24-13.45.01:231][953]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.24-13.45.01:233][953]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.04.24-13.45.01:233][953]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 687 ms)
+[2025.04.24-13.45.01:233][953]LogPlayLevel: PIE: World Init took: (0.002755s)
+[2025.04.24-13.45.01:233][953]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.24-13.45.01:233][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.24-13.45.01:233][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.24-13.45.01:234][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.24-13.45.01:234][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.24-13.45.01:234][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.24-13.45.01:236][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.24-13.45.01:289][953]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.04.24-13.45.01:289][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.24-13.45.01:289][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.24-13.45.01:289][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.24-13.45.01:290][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.24-13.45.01:290][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.04.24-13.45.01:293][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.24-13.45.01:293][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.24-13.45.01:293][953]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.24-13.45.01:293][953]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.04.24-13.45.01:293][953]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.24-13.45.01:296][953]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.24-13.45.01:302][953]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.04.24-07.45.01
+[2025.04.24-13.45.01:302][953]LogWorld: Bringing up level for play took: 0.006584
+[2025.04.24-13.45.01:305][953]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.04.24-13.45.01:309][953]LogLevelInstance: Loaded 4 levels in 0 seconds
+[2025.04.24-13.45.01:310][953]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2025.04.24-13.45.01:442][953]PIE: Warning: AttachTo: '/Temp/Game/ModularDungeon2/Maps/UEDPIE_0_OverView_LevelInstance_ebc6b6f9b266cac0_1.OverView:PersistentLevel.BP_Fur_Bed_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Fur_Bed"), cannot attach '/Temp/Game/ModularDungeon2/Maps/UEDPIE_0_OverView_LevelInstance_ebc6b6f9b266cac0_1.OverView:PersistentLevel.BP_Fur_Bed_C_1.Fur_Bed' which is static to it. Aborting.
+[2025.04.24-13.45.01:462][953]LogStaticMesh: Warning: [AssetLog] C:\Users\Alienware\Documents\GitHub\LAS3J\LABERINTOproA\Content\ModularDungeon2\Maps\OverView.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Temp/Game/ModularDungeon2/Maps/UEDPIE_0_OverView_LevelInstance_ebc6b6f9b266cac0_1.OverView:PersistentLevel.BP_Fur_Bed_C_1.Fur_Bed
+Current: -220.000000,-1060.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[2025.04.24-13.45.01:470][953]PIE: Warning: AttachTo: '/Temp/Game/ModularDungeon2/Maps/UEDPIE_0_OverView_LevelInstance_641b2e3936bfa10c_1.OverView:PersistentLevel.BP_Fur_Bed_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Fur_Bed"), cannot attach '/Temp/Game/ModularDungeon2/Maps/UEDPIE_0_OverView_LevelInstance_641b2e3936bfa10c_1.OverView:PersistentLevel.BP_Fur_Bed_C_1.Fur_Bed' which is static to it. Aborting.
+[2025.04.24-13.45.01:489][953]LogStaticMesh: Warning: [AssetLog] C:\Users\Alienware\Documents\GitHub\LAS3J\LABERINTOproA\Content\ModularDungeon2\Maps\OverView.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Temp/Game/ModularDungeon2/Maps/UEDPIE_0_OverView_LevelInstance_641b2e3936bfa10c_1.OverView:PersistentLevel.BP_Fur_Bed_C_1.Fur_Bed
+Current: 850.000000,-1350.000000,60.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[2025.04.24-13.45.01:916][953]PIE: Server logged in
+[2025.04.24-13.45.01:917][953]PIE: Play in editor total start time 0,783 seconds.
+[2025.04.24-13.45.22:133][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.24-13.45.22:133][122]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.24-13.45.22:148][122]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.24-13.45.22:148][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.24-13.45.22:148][122]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.04.24-13.45.22:152][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.24-13.45.22:161][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.24-13.45.22:175][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.24-13.45.22:183][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.24-13.45.22:183][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.24-13.45.22:185][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.24-13.45.22:189][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.24-13.45.22:220][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.24-13.45.22:385][123]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.04.24-13.45.27:096][348]LogSlate: Window 'Message Log' being destroyed
+[2025.04.24-13.45.27:125][348]LogSlate: Window 'Message Log' being destroyed
+[2025.04.24-13.46.27:202][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:217][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:233][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_12 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:254][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_13 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:275][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_14 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:281][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:301][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:317][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:333][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:353][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:367][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:384][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:398][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:415][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:438][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:452][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:467][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_12 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:485][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_13 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:504][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_14 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:509][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:528][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:540][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:555][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:573][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:584][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:600][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:611][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:625][682]LogTexture: Display: Building textures: /Game/ModularDungeon2/Maps/Demo_L3_BuiltData.Demo_L3_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2025.04.24-13.46.27:663][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.46.28:168][682]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L3.Demo_L3
+[2025.04.24-13.46.28:168][682]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L3.Demo_L3
+[2025.04.24-13.46.29:674][770]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L3.Demo_L3
+[2025.04.24-13.46.29:674][770]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L3.Demo_L3
+[2025.04.24-13.46.29:702][770]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/ModularDungeon2/Maps/Demo_L3_LevelInstance_c8f4ea39cc388030_0) is flushing async loading
+[2025.04.24-13.46.29:702][770]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.24-13.46.30:510][770]LogLevelInstance: Loaded 1 levels in 0,809 seconds
+[2025.04.24-13.46.31:293][793]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.24-13.46.59:099][976]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/OverView.OverView
+[2025.04.24-13.46.59:099][976]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/OverView.OverView
+[2025.04.24-13.46.59:822][ 12]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/OverView.OverView
+[2025.04.24-13.46.59:822][ 12]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/OverView.OverView
+[2025.04.24-13.46.59:846][ 12]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/ModularDungeon2/Maps/OverView_LevelInstance_01bad3d5ccf709d0_0) is flushing async loading
+[2025.04.24-13.46.59:847][ 12]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.24-13.46.59:862][ 12]PIE: Warning: AttachTo: '/Temp/Game/ModularDungeon2/Maps/OverView_LevelInstance_01bad3d5ccf709d0_0.OverView:PersistentLevel.BP_Fur_Bed_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_Fur_Bed"), cannot attach '/Temp/Game/ModularDungeon2/Maps/OverView_LevelInstance_01bad3d5ccf709d0_0.OverView:PersistentLevel.BP_Fur_Bed_C_1.Fur_Bed' which is static to it. Aborting.
+[2025.04.24-13.46.59:885][ 12]LogStaticMesh: Warning: [AssetLog] C:\Users\Alienware\Documents\GitHub\LAS3J\LABERINTOproA\Content\ModularDungeon2\Maps\OverView.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Temp/Game/ModularDungeon2/Maps/OverView_LevelInstance_01bad3d5ccf709d0_0.OverView:PersistentLevel.BP_Fur_Bed_C_1.Fur_Bed
+Current: -11480.000000,1990.000000,7690.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[2025.04.24-13.46.59:894][ 12]LogLevelInstance: Loaded 1 levels in 0,049 seconds
