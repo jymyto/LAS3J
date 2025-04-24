@@ -1200,3 +1200,16 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.04.24-14.11.46:291][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.04.24-14.11.48:992][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.04.24-14.11.49:053][972]LogViewport: Scene viewport resized to 460x333, mode Windowed.
+[2025.04.24-14.12.26:238][360]LogSlate: Took 0.001012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.24-14.12.37:111][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.12.37:222][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.12.38:426][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.12.40:239][144]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ModularDungeon2/Demo/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_B44506926950E46102_1175515055
+[2025.04.24-14.12.40:239][144]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_UAID_B44506926950E46102_1175515055. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.04.24-14.12.40:241][144]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ModularDungeon2/Demo/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_B44506926950E46102_1175515055
+[2025.04.24-14.12.40:328][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-14.12.40:368][146]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2025.04.24-14.12.41:326][204]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2025.04.24-14.12.41:463][211]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ModularDungeon2/Demo/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_B44506926950E46102_1176738056
+[2025.04.24-14.12.41:463][211]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_UAID_B44506926950E46102_1176738056. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.04.24-14.12.41:464][211]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ModularDungeon2/Demo/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_B44506926950E46102_1176738056
