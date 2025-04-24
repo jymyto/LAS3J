@@ -1197,3 +1197,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.24-05.45.03:743][ 24]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-JWpaK_CihkeyOU3tfsSZ0Q-eEDs0M3xckKrrdupc9sMOA]
 [2025.04.24-05.45.21:918][ 97]LogSlate: Window 'Revision Control Login' being destroyed
 [2025.04.24-05.46.49:047][966]LogDerivedDataCache: C:/Users/Alienware/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.087 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 798 files in 1418 folders with total size 103 MiB.
+[2025.04.24-05.50.04:128][649]LogSlate: Took 0.003072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.24-05.50.04:681][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 310.541962
+[2025.04.24-05.50.04:808][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.24-05.50.04:808][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 310.651154, Update Interval: 337.231964
+[2025.04.24-05.50.09:629][973]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.24-05.50.09:648][973]LogActorFactory: Actor Factory attempting to spawn World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.04.24-05.50.09:648][973]LogActorFactory: Actor Factory attempting to spawn World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.04.24-05.50.09:655][973]LogLevelInstance: Warning: Setting LevelInstance to /Game/ThirdPerson/Maps/ThirdPersonMap would cause loop LevelInstance_0:/Game/ThirdPerson/Maps/ThirdPersonMap
+-> Actor: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_0 loads /Game/ThirdPerson/Maps/ThirdPersonMap
+
+[2025.04.24-05.50.09:655][973]LogLevelInstance: Warning: Setting LevelInstance to /Game/ThirdPerson/Maps/ThirdPersonMap would cause loop LevelInstance_0:/Game/ThirdPerson/Maps/ThirdPersonMap
+-> Actor: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_0 loads /Game/ThirdPerson/Maps/ThirdPersonMap
+
+[2025.04.24-05.50.09:659][973]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.24-05.50.10:492][ 22]LogActorFactory: Actor Factory attempting to spawn World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.04.24-05.50.10:492][ 22]LogActorFactory: Actor Factory attempting to spawn World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.04.24-05.50.10:496][ 22]LogLevelInstance: Warning: Setting LevelInstance to /Game/ThirdPerson/Maps/ThirdPersonMap would cause loop LevelInstance_UAID_B44506926950C86102_1090542127:/Game/ThirdPerson/Maps/ThirdPersonMap
+-> Actor: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_UAID_B44506926950C86102_1090542127 loads /Game/ThirdPerson/Maps/ThirdPersonMap
+
+[2025.04.24-05.50.10:496][ 22]LogLevelInstance: Warning: Setting LevelInstance to /Game/ThirdPerson/Maps/ThirdPersonMap would cause loop LevelInstance_UAID_B44506926950C86102_1090542127:/Game/ThirdPerson/Maps/ThirdPersonMap
+-> Actor: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_UAID_B44506926950C86102_1090542127 loads /Game/ThirdPerson/Maps/ThirdPersonMap
+
+[2025.04.24-05.50.14:226][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-05.50.14:402][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-05.50.20:024][567]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2025.04.24-05.50.22:607][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.24-05.51.02:328][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.24-05.51.03:450][ 77]LogSlate: Window 'Save Content' being destroyed
+[2025.04.24-05.51.03:615][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.24-05.51.03:666][ 77]LogPackageLocalizationCache: Processed 47 localized package path(s) for 2 prioritized culture(s) in 0.009252 seconds
+[2025.04.24-05.51.03:667][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0L/N0CW9HXHGIJ6YCQDCBZS51
+[2025.04.24-05.51.03:668][ 77]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/LAS3J/LABERINTOproA/Saved/N0CW9HXHGIJ6YCQDCBZS5100112AC04634FA998480B6A1D0F169A6.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/LAS3J/LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0L/N0CW9HXHGIJ6YCQDCBZS51.uasset'
+[2025.04.24-05.51.04:319][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 704 ms
+[2025.04.24-05.51.04:322][ 77]AssetCheck: New page: Asset Save: LevelInstance_UAID_B44506926950C86102_1090542127
+[2025.04.24-05.51.04:322][ 77]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelInstance_UAID_B44506926950C86102_1090542127
