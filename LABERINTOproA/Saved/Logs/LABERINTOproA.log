@@ -1456,3 +1456,35 @@ Current: -220.000000,-1060.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,
 [2025.04.24-13.41.28:873][747]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2025.04.24-13.41.29:318][752]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
 [2025.04.24-13.41.31:064][849]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.24-13.42.53:971][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.24-13.42.54:022][ 49]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2025.04.24-13.42.54:022][ 49]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2025.04.24-13.42.54:023][ 49]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2025.04.24-13.42.54:099][ 49]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L1.Demo_L1
+[2025.04.24-13.42.54:099][ 49]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L1.Demo_L1
+[2025.04.24-13.42.54:190][ 54]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd, at AnimationSequence/9e89501576d31423f851c80bba6600f404c59344
+[2025.04.24-13.42.54:196][ 54]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.04.24-13.42.54:197][ 54]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2025.04.24-13.42.54:202][ 55]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2025.04.24-13.42.54:220][ 56]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2025.04.24-13.42.54:227][ 56]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/1b102c62150abee1e8b626165258fbd80334258b
+[2025.04.24-13.42.54:228][ 56]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.04.24-13.42.54:286][ 60]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd, at AnimationSequence/7212c1247d2cf5f2433e3a9620b9b9e682358991
+[2025.04.24-13.42.54:538][ 73]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle, at AnimationSequence/7f3261747e210122d05d2414e09029f3bef4cc9f
+[2025.04.24-13.42.54:540][ 73]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land, at AnimationSequence/75ffb39a383e7e8d2aea1fda66f1af4b1ec0dcf0
+[2025.04.24-13.42.54:544][ 73]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.04.24-13.42.54:544][ 73]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.04.24-13.42.54:605][ 77]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd, at AnimationSequence/37597e227a6054e121bc137af8610eb2ab4e89a9
+[2025.04.24-13.42.54:635][ 79]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump, at AnimationSequence/b3a23a3c9f7c5d17635ceccf5b60b5c9f9e76198
+[2025.04.24-13.42.54:670][ 81]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/c97cd44d923235a8f3efe1b4a79c27e98474d47c
+[2025.04.24-13.42.54:905][ 94]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop, at AnimationSequence/77c3b3fea725cab21c8efe524dfa04ff8e265c27
+[2025.04.24-13.42.55:059][104]LogAnimationCompression: Display: Storing compressed animation data for /Game/ModularDungeon2/Demo/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle, at AnimationSequence/c7beb97f79144c8c82d67c0880475030571b49b4
+[2025.04.24-13.42.57:643][258]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L1.Demo_L1
+[2025.04.24-13.42.57:643][258]LogActorFactory: Actor Factory attempting to spawn World /Game/ModularDungeon2/Maps/Demo_L1.Demo_L1
+[2025.04.24-13.42.57:663][258]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/ModularDungeon2/Maps/Demo_L1_LevelInstance_dc1d744fbeecf839_0) is flushing async loading
+[2025.04.24-13.42.57:663][258]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.24-13.42.57:740][258]LogLevelInstance: Loaded 1 levels in 0,079 seconds
+[2025.04.24-13.42.57:815][260]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.24-13.42.58:731][315]SourceControl: Error: warning: could not open directory 'LABERINTOproA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.24-13.43.07:126][809]Cmd: TRANSACTION UNDO
+[2025.04.24-13.43.07:126][809]LogEditorTransaction: Undo Rotate Elements
