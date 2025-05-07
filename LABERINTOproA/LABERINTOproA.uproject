@@ -14,6 +14,10 @@
 		{
 			"Name": "ContentBrowserAliasDataSource",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
