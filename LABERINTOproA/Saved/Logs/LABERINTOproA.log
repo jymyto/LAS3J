@@ -1262,3 +1262,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.20-23.12.54:125][212]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/Alienware/Documents/GitHub/LAS3J'
 [2025.05.20-23.12.54:125][212]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Alienware/Documents/GitHub/LAS3J'
 [2025.05.20-23.12.54:270][212]EditorErrors: Warning: No assets to check in!
+[2025.05.20-23.14.13:154][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1001.682861
+[2025.05.20-23.14.14:156][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-23.14.14:156][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1002.350098, Update Interval: 304.370850
