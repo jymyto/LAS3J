@@ -1,0 +1,10 @@
+*.blend1
+# Archivos temporales de Blender
+*.blend1
+*.blend2
+*.blend@
+
+# Archivos de caché o respaldo
+__pycache__/
+*.tmp
+Saved/
