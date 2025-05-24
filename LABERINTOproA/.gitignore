@@ -1,10 +1,118 @@
-*.blend1
-# Archivos temporales de Blender
-*.blend1
-*.blend2
-*.blend@
+# Gitignore para Proyectos de Unreal Engine
 
-# Archivos de caché o respaldo
-__pycache__/
-*.tmp
+# Directorios de Build
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
 Saved/
+.vs/
+.vscode/
+
+# Archivos de depuración y logs
+*.log
+*.dmp
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.ilk
+*.idb
+*.ipch
+
+# Archivos de configuración locales o de usuario
+*.ini
+*.uproject.user
+*.sln.suo
+*.v11.suo
+*.v12.suo
+*.v14.suo
+*.v15.suo
+*.v16.suo
+*.v17.suo
+
+# Archivos del Editor/IDE
+.DS_Store
+Thumbs.db
+
+# Paquetes y compilaciones exportadas
+/Release/
+/Shipping/
+/Development/
+
+# Otros archivos generados
+.tmp
+*.tmp
+*.bak
+*.old
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+*.pdb
+*.natvis
+*.user
+*.config
+*.mdmp
+*.cache
+*.sdf
+*.opensdf
+*.opendb
+*.tlog
+*.exp
+*.ilk
+*.vc.opendb
+*.aps
+*.res
+*.pch
+*.pbo
+*.pfi
+*.pfr
+*.psess
+*.recipe
+*.rules
+*.rtf
+*.sql
+*.scc
+*.sbr
+*.bsc
+*.vsp
+*.xml.filters
+
+# Archivos específicos de plataformas/arquitecturas (pueden ser muchos, solo algunos ejemplos)
+/Engine/Binaries/Win64/
+/Engine/Binaries/Linux/
+/Engine/Binaries/Mac/
+/Engine/Binaries/HTML5/
+/Engine/Binaries/Android/
+/Engine/Binaries/IOS/
+/Engine/Binaries/TVOS/
+/Engine/Binaries/PS4/
+/Engine/Binaries/XboxOne/
+/Engine/Binaries/Switch/
+
+# Archivos de Visual Studio específicos
+*.VC.db
+
+# Carpeta de "Plugins" si contiene plugins generados localmente y no versionados
+# /Plugins/
+
+# Carpeta de "Content" solo si quieres ignorar ciertos subdirectorios, lo cual NO es común.
+# ¡Normalmente quieres versionar todo el contenido!
+# /Content/UnversionedAssets/
+
+# Archivos generados por Rider IDE
+.idea/
+
+# Asegúrate de que los archivos grandes de Unreal Engine se rastrean con Git LFS.
+# Esta sección debe ir en tu .gitattributes, no en .gitignore.
+# Si estos archivos grandes ya están en tu historial de Git sin LFS, necesitarás migrarlos.
+# *.uasset filter=lfs diff=lfs merge=lfs -text
+# *.umap filter=lfs diff=lfs merge=lfs -text
+# *.uexp filter=lfs diff=lfs merge=lfs -text
+# *.udat filter=lfs diff=lfs merge=lfs -text
+# *.upk filter=lfs diff=lfs merge=lfs -text
+# *.bin filter=lfs diff=lfs merge=lfs -text
